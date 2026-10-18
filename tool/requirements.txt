@@ -1,0 +1,4 @@
+# XferBridge 外部工具依赖（Python 3.11+，全部为标准库，无需安装任何第三方包）
+# - tomllib: Python 3.11+ 内置（解析 Forge mods.toml）
+# - tkinter: Windows 官方 Python 安装自带
+# 如确需 UI 增强，可自行安装 pyside6，但本工具默认零依赖可运行。
