@@ -1,0 +1,10 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        maven { url = 'https://maven.creeperhost.net/' }
+        maven { url = 'https://repo.spongepowered.org/maven/' }
+        maven { url = 'https://maven.minecraftforge.net/' }
+    }
+}
+
+rootProject.name = 'xferbridge'
